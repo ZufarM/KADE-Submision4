@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Footbal Club III</string>
+
+    <!--Home view-->
+    <string name="tab_text_1">Last Match</string>
+    <string name="tab_text_2">Next Match</string>
+    <string name="tab_text_3">Favourites Match</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
